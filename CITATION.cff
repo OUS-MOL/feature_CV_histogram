@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Reference material homogeneity: CV histograms of metabolite and lipid features"
+abstract: >-
+  R script plotting the distributions of between-unit and within-unit coefficients
+  of variation of metabolite and lipid features (positive and negative ionization
+  mode) for vials of a reference material, as a homogeneity assessment of the
+  bulk material.
+authors:
+  - family-names: "Pisklakova"
+    given-names: "Barbora"
+    affiliation: "Section for Metabolomics & Lipidomics, Oslo University Hospital"
+  - family-names: "Kvasnička"
+    given-names: "Aleš"
+    affiliation: "Section for Metabolomics & Lipidomics, Oslo University Hospital"
+version: "1.0.0"
+license: MIT
+keywords:
+  - metabolomics
+  - lipidomics
+  - reference material
+  - homogeneity
+  - LC-MS
+# Add after the repository is moved/published:
+# repository-code: "https://github.com/OUS-MOL/<repository-name>"
+# doi: "10.5281/zenodo.XXXXXXX"        # Zenodo DOI of the v1.0.0 release
+# date-released: "YYYY-MM-DD"
